@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 data/
 output/
+FastMapSVM/
+output_k/
